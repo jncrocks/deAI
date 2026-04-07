@@ -1,0 +1,6 @@
+[Adblock Plus 2.0]
+! Name: deAI for Google
+
+google.com##button.plR5qb.Y5MKCd
+google.com##.xBNgKe
+google.com##.hdzaWe
