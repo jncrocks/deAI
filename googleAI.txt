@@ -4,4 +4,4 @@
 google.com##button.plR5qb.Y5MKCd
 google.com##.xBNgKe
 google.com##.hdzaWe
-google.com##div[jsname="xBNgKe"]
+google.com##div.olrp5b
