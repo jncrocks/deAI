@@ -1,1 +1,5 @@
+[Adblock Plus 2.0]
+! Name: deAI for YouTube
 
+youtube.com##yt-video-description-youchat-section-view-model
+youtube.com##button-view-model.you-chat-entrypoint-button
