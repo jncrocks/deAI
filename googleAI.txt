@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Name: deAI for Google
+! Title: deAI for Google
 
 google.com##button[jsname="B6rgad"]
 google.com##.xBNgKe

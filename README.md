@@ -6,7 +6,7 @@ Removes AI Elements on YouTube and Google
 <pre>URLs:
 Google: https://raw.githubusercontent.com/jncrocks/deAI/refs/heads/main/googleAI.txt
 YouTube: https://raw.githubusercontent.com/jncrocks/deAI/refs/heads/main/youtubeAI.txt
-</pre>pre>
+</pre>
 
 <h4>Brave:</h4>
 <pre>1. Copy the URL above
