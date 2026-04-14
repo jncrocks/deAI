@@ -2,6 +2,6 @@
 ! Title: deAI for Google
 
 google.com##button[jsname="B6rgad"]
-google.com##.xBNgKe
+||google.com##.xBNgKe
 google.com##.hdzaWe
 google.com##div.olrp5b
