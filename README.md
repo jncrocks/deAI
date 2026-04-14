@@ -1,5 +1,13 @@
 <h2>deAI</h2>
-A content filter list that removes AI Elements on YouTube and Google.
+A content filter list that removes AI Elements on YouTube (Desktop only. Support for mobile version coming soon) and Google (Both mobile and destop version).
+
+<h3>Compatibility:</h3>
+<pre>
+Adguard
+Brave Browser
+uBlock Origin
+and other content blockers that support custom filters</pre>
+
 
 <h3>How to install?</h3>
 
