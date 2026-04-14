@@ -1,1 +1,1 @@
-<h2>deAI</h2>
+<h2><center>deAI</h2></center>
