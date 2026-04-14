@@ -1,5 +1,5 @@
 <h2>deAI</h2>
-Removes AI Elements on YouTube and Google
+A content filter list that removes AI Elements on YouTube and Google.
 
 <h3>How to install?</h3>
 
