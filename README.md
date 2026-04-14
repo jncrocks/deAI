@@ -1,5 +1,5 @@
 <h2>deAI</h2>
-A content filter list that removes AI Elements on YouTube (Desktop only. Support for mobile version coming soon) and Google (Both mobile and destop version).
+A content filter list that removes AI Elements on YouTube (Desktop only. Support for mobile version coming soon) and Google (Both mobile and desktop versions).
 
 <h3>Compatibility:</h3>
 <pre>
