@@ -3,3 +3,4 @@
 
 youtube.com##yt-video-description-youchat-section-view-model
 youtube.com##button-view-model.you-chat-entrypoint-button
+youtube.com###video-summary
