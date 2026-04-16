@@ -3,7 +3,7 @@ A content filter list that removes AI Elements on YouTube (Desktop only. Support
 
 <h3>Compatibility:</h3>
 <pre>
-Adguard
+AdGuard
 Brave Browser
 uBlock Origin
 and other content blockers that support custom filters</pre>
