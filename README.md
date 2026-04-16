@@ -21,8 +21,9 @@ YouTube: https://raw.githubusercontent.com/jncrocks/deAI/refs/heads/main/youtube
 2. Click or Tap Brave Browser Icon in the address bar then press "Global Defaults" or "Change Shields Global Defaults"
 3. Go to Content Filtering
 4. 
-  a.For iOS or Android, tap "Add Filter by URL" then paste the URL that you've copied or
-  b.For Windows, Mac, or Linux, paste the URL you've copied</pre>
+  a.For iOS or Android, tap "Add Filter by URL" then paste the URL that you've copied above then tap "Apply" or
+  b.For Windows, Mac, or Linux, paste the URL you've copied above then click "Add"</pre>
+5. 
 
 <h4>uBlock Origin:</h4>
 <pre>1. Copy the URL above
