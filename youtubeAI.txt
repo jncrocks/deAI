@@ -7,3 +7,4 @@ youtube.com###video-summary
 youtube.com##button-view-model.you-chat-entrypoint-button[aria-label="Ask"]
 youtube.com##ytd-expandable-metadata-renderer
 youtube.com##ytd-expandable-metadata-renderer #header
+m.youtube.com##ytm-expandable-metadata-renderer.expandableMetadataRendererHost
